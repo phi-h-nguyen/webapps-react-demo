@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.board-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.square {
+  height: 30px;
+  width: 30px;
+  margin: 5px;
+  padding: 0px;
+}
+
+.game-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
